@@ -9,6 +9,7 @@ Computer Science Engineer
   
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nova-s-88b36726a/)
+
 - 😄 Pronouns: Techie
 
 
@@ -25,4 +26,3 @@ Computer Science Engineer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/novas1891?theme=dark&font=David%20Libre)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nova2501&bg_color=000000&color=eb5e00&line=4c9e68&point=3d03c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
